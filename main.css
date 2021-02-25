@@ -1,0 +1,114 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+    font-family: 'Nixie One', cursive;
+}
+
+.sectionLight {
+    background-color: #f7e6ff;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #efccff;
+    padding: 2rem;
+}
+
+.col-sm-12.col-md-6 {
+    font-family: 'Nixie One', cursive;
+}
+
+.getInfo {
+    margin-top: 20px;
+}
+
+button.getInfoBtn {
+    display: block;
+    padding: 10px 25px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    background-color: #4d0066;
+    margin: auto;
+    border-radius: 10px;
+}
+
+button.getInfoBtn:hover {
+    background-color: #730099;
+}
+
+button.getInfoBtn:active {
+    background-color: #730099;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+button.btnCenter {
+    display: block;
+    padding: 5px 25px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    background-color: #4d0066;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 54%;
+}
+
+button.btnCenter:hover {
+    background-color: #730099;
+}
+
+button.btnCenter:active {
+    background-color: #730099;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+
+h5.modal-title {
+    margin-left: 120px;
+}
+
+.modalFormInfo {
+    padding: 2rem;
+}
+
+.ImgCenter {
+    display: block;
+    margin: auto;
+}
+
+.fab {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #4267B2;
+}
+
+.fa-instagram {
+    color: #E1306C;
+}
+
+.fa-google-plus {
+    color: #DB4437;
+}
+
+.socialWrap {
+    margin: auto;
+}
